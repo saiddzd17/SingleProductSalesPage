@@ -1,0 +1,10 @@
+{
+  "description": "A focused e-commerce site selling natural wild rocket honey with a clear landing page and convenient cash-on-delivery payment option in London.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
